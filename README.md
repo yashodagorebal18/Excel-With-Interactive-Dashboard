@@ -26,7 +26,7 @@ Average Ship Days: 4
 - Dashboard Interactive <a href="https://github.com/yashodagorebal18/Excel-With-Interactive-Dashboard/blob/main/Dashboard.pbit">Report</a>
 
 ## Dashboard 
-<a href=" https://github.com/yashodagorebal18/Excel-With-Interactive-Dashboard/blob/main/Super%20Store%20Sales%20Dashboard.png">View Dashboard</a>
+Screenshot<a href="https://github.com/yashodagorebal18/Excel-With-Interactive-Dashboard/blob/main/Super%20Store%20Sales%20Dashboard.png">View Dashboard</a>
 <a href="https://github.com/yashodagorebal18/Excel-With-Interactive-Dashboard/blob/main/Dashboard.png">Dashboard</a>
 
 ## Insights Derived
