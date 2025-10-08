@@ -12,7 +12,7 @@ Total Orders: 22K
 Total Sales: 1.6M
 Total Profit: 175K
 Average Ship Days: 4
-# ✅ Visualizations Include:
+## ✅ Visualizations Include:
 - Sales by Payment Mode – COD, Online, and Card payments distribution.
 - Sales by Region – East, West, South, and Central zones.
 - Sales by Segment – Corporate, Consumer, and Home Office segments.
@@ -22,5 +22,9 @@ Average Ship Days: 4
 - Profit and Sales by State – Interactive map visualization across U.S. states.
 - 15Day Sales Forecast – Predictive analytics visual for upcoming sales trends.
 
-  -Dashboard Interactive <a href="
+## Dashboard 
+<a href=" https://github.com/yashodagorebal18/Excel-With-Interactive-Dashboard/blob/main/Super%20Store%20Sales%20Dashboard.png">View Dashboard</a>
+<a href="https://github.com/yashodagorebal18/Excel-With-Interactive-Dashboard/blob/main/Dashboard.png">Dashboard</a>
+
+  
 
