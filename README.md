@@ -5,7 +5,7 @@ It visualizes the SuperStore Sales Dataset, offering deep insights into sales pe
 
 ## Dataset used
 - <a href="https://github.com/yashodagorebal18/Excel-With-Interactive-Dashboard/blob/main/SuperStore_Sales_Dataset%20(1).csv">Dataset</a>
-Key Features
+
 
 ## ✅ Overall KPIs
 Total Orders: 7K
